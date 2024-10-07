@@ -1,7 +1,7 @@
 {
   "name": "curso.dev",
   "version": "1.0.0",
-  "description": "Implementação dos conceitos aprendidos no cuso do Filipe Deschamps",
+  "description": "site mini tramas",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
