@@ -1,10 +1,9 @@
 function Home() {
   return (
     <div>
-      <h1>Te amo mo</h1>
+      <h1>Mini Tramas</h1>
 
-      <p>Resposta:</p>
-      <img src="/images/desafio.dev.png" alt="resposta" />
+      <img src="/images/desafio.dev.png" alt="em construcao" />
     </div>
   );
 }
